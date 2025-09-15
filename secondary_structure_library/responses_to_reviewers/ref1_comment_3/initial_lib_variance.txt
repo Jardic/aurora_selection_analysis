@@ -1,0 +1,9 @@
+copy number min: 40.68598956759139
+copy number max: 59757822.8939288
+fold difference between most and least abundant:1468756.7766946773
+--------------
+copy number under q99 min: 40.68598956759139
+copy number under q99 max: 5104709.29624808
+fold difference between most and least abundant:125466.02283736167
+--------------
+proportion of sequence spaace covered by sequencing (initial lib): 0.34
